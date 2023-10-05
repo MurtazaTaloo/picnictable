@@ -1,9 +1,11 @@
 [
   {
     "name": "theme_info",
-    "theme_name": "TalooCustom",
-    "theme_author": "Taloo",
-    "theme_version": "1.0"
+    "theme_name": "Impact",
+    "theme_author": "Maestrooo",
+    "theme_version": "3.1.1",
+    "theme_documentation_url": "https:\/\/support.maestrooo.com\/",
+    "theme_support_url": "https:\/\/support.maestrooo.com\/article\/203-contact-us"
   },
   {
     "name": "Appearance and spacing",
