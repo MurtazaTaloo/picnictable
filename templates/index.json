@@ -1,11 +1,93 @@
 {
   "sections": {
+    "5d7e1bbc-2b44-42df-8d9a-42873a039490": {
+      "type": "video",
+      "blocks": {
+        "template--21272916820286__5d7e1bbc-2b44-42df-8d9a-42873a039490-play-1": {
+          "type": "play",
+          "settings": {
+          }
+        },
+        "template--21272916820286__5d7e1bbc-2b44-42df-8d9a-42873a039490-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "EZ Picnic Table: Your Perfect Outdoor Companion!",
+            "heading_tag": "h2"
+          }
+        },
+        "a03cb168-86b2-4a11-9bab-7664a9932230": {
+          "type": "heading",
+          "settings": {
+            "text": "Portable, Durable, and Convenient – Unleash a Premium Picnic Experience Anywhere, Anytime!",
+            "heading_tag": "h5"
+          }
+        }
+      },
+      "block_order": [
+        "template--21272916820286__5d7e1bbc-2b44-42df-8d9a-42873a039490-play-1",
+        "template--21272916820286__5d7e1bbc-2b44-42df-8d9a-42873a039490-heading-1",
+        "a03cb168-86b2-4a11-9bab-7664a9932230"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "@media only screen and (min-width: 501px) {div {display: none; }}",
+        "p.h6 {background: #15d10170; color: white; max-width: 500px; margin: 0 auto; padding-top: 5px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "md",
+        "video": "shopify:\/\/files\/videos\/EZ Picnic Table Mobile (1).mp4",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 40
+      }
+    },
+    "bf3b9fa8-0815-497f-a1cf-d16af1bec64e": {
+      "type": "video",
+      "blocks": {
+        "template--21272916820286__bf3b9fa8-0815-497f-a1cf-d16af1bec64e-play-1": {
+          "type": "play",
+          "settings": {
+          }
+        },
+        "template--21272916820286__bf3b9fa8-0815-497f-a1cf-d16af1bec64e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--21272916820286__bf3b9fa8-0815-497f-a1cf-d16af1bec64e-play-1",
+        "template--21272916820286__bf3b9fa8-0815-497f-a1cf-d16af1bec64e-heading-1"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "@media only screen and (max-width: 500px) {div {display: none; }}",
+        "p.h6 {background: #15d10170; color: white; max-width: 500px; margin: 0 auto; padding-top: 5px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
         "slide-1": {
           "type": "image",
           "settings": {
+            "mobile_image": "shopify:\/\/shop_images\/H3455232cf590423ebba3fd506722e23c9.jpg_960x960_603dd261-da76-4acd-9ef6-5f23f4877e80.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -854,6 +936,8 @@
     }
   },
   "order": [
+    "5d7e1bbc-2b44-42df-8d9a-42873a039490",
+    "bf3b9fa8-0815-497f-a1cf-d16af1bec64e",
     "slideshow",
     "image-link-blocks",
     "scrolling-text",
