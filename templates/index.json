@@ -21,12 +21,24 @@
             "text": "Portable, Durable, and Convenient – Unleash a Premium Picnic Experience Anywhere, Anytime!",
             "heading_tag": "h5"
           }
+        },
+        "53a9178d-f295-4af1-b6fc-b947162b2f3a": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "size": "lg",
+            "text": "BUY NOW",
+            "url": "",
+            "background": "",
+            "text_color": "#ffffff"
+          }
         }
       },
       "block_order": [
         "template--21272916820286__5d7e1bbc-2b44-42df-8d9a-42873a039490-play-1",
         "template--21272916820286__5d7e1bbc-2b44-42df-8d9a-42873a039490-heading-1",
-        "a03cb168-86b2-4a11-9bab-7664a9932230"
+        "a03cb168-86b2-4a11-9bab-7664a9932230",
+        "53a9178d-f295-4af1-b6fc-b947162b2f3a"
       ],
       "custom_css": [
         "@media only screen and (min-width: 501px) {div {display: none; }}",
@@ -101,74 +113,26 @@
         "text_color": ""
       }
     },
-    "fe81cd8a-78e1-4c4b-87ec-6df666794607": {
-      "type": "text-with-icons",
+    "773a9e95-957d-491c-8247-8c3c5d578992": {
+      "type": "rich-text",
       "blocks": {
-        "template--21272916820286__fe81cd8a-78e1-4c4b-87ec-6df666794607-item-1": {
-          "type": "item",
+        "template--21272916820286__773a9e95-957d-491c-8247-8c3c5d578992-heading-1": {
+          "type": "heading",
           "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included<\/p>"
-          }
-        },
-        "template--21272916820286__fe81cd8a-78e1-4c4b-87ec-6df666794607-item-2": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>We are available from monday to friday to answer your questions.<\/p>"
-          }
-        },
-        "template--21272916820286__fe81cd8a-78e1-4c4b-87ec-6df666794607-item-3": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Your payment information is processed securely.<\/p>"
-          }
-        },
-        "83e2d629-9beb-4299-8605-ddc63d1e3f5d": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-leaf",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "#d73333",
-            "icon_color": "#ffffff",
-            "title": "Heading",
-            "content": "<p>Short content about your store<\/p>"
+            "text": "FEATURES",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
           }
         }
       },
       "block_order": [
-        "template--21272916820286__fe81cd8a-78e1-4c4b-87ec-6df666794607-item-1",
-        "template--21272916820286__fe81cd8a-78e1-4c4b-87ec-6df666794607-item-2",
-        "template--21272916820286__fe81cd8a-78e1-4c4b-87ec-6df666794607-item-3",
-        "83e2d629-9beb-4299-8605-ddc63d1e3f5d"
+        "template--21272916820286__773a9e95-957d-491c-8247-8c3c5d578992-heading-1"
       ],
       "settings": {
         "full_width": true,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -1039,7 +1003,7 @@
     "5d7e1bbc-2b44-42df-8d9a-42873a039490",
     "bf3b9fa8-0815-497f-a1cf-d16af1bec64e",
     "be9c43d9-4928-4c31-8f93-a85101cd601d",
-    "fe81cd8a-78e1-4c4b-87ec-6df666794607",
+    "773a9e95-957d-491c-8247-8c3c5d578992",
     "slideshow",
     "image-link-blocks",
     "scrolling-text",
