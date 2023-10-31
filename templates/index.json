@@ -28,7 +28,6 @@
         "template--21272916820286__5d7e1bbc-2b44-42df-8d9a-42873a039490-heading-1",
         "a03cb168-86b2-4a11-9bab-7664a9932230"
       ],
-      "disabled": true,
       "custom_css": [
         "@media only screen and (min-width: 501px) {div {display: none; }}",
         "p.h6 {background: #15d10170; color: white; max-width: 500px; margin: 0 auto; padding-top: 5px;}"
@@ -65,7 +64,6 @@
         "template--21272916820286__bf3b9fa8-0815-497f-a1cf-d16af1bec64e-play-1",
         "template--21272916820286__bf3b9fa8-0815-497f-a1cf-d16af1bec64e-heading-1"
       ],
-      "disabled": true,
       "custom_css": [
         "@media only screen and (max-width: 500px) {div {display: none; }}",
         "p.h6 {background: #15d10170; color: white; max-width: 500px; margin: 0 auto; padding-top: 5px;}"
@@ -81,19 +79,115 @@
         "overlay_opacity": 30
       }
     },
+    "be9c43d9-4928-4c31-8f93-a85101cd601d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21272916820286__be9c43d9-4928-4c31-8f93-a85101cd601d-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Unfold a world of outdoor luxury with the EZ Picnic Table. Our folding mini picnic table is a blend of convenience, durability, and style, designed to accompany you in every outdoor adventure. Made from sturdy aluminum, say goodbye to rust and paint loss, and hello to a lifetime of picnics!<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21272916820286__be9c43d9-4928-4c31-8f93-a85101cd601d-richtext-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "fe81cd8a-78e1-4c4b-87ec-6df666794607": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--21272916820286__fe81cd8a-78e1-4c4b-87ec-6df666794607-item-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included<\/p>"
+          }
+        },
+        "template--21272916820286__fe81cd8a-78e1-4c4b-87ec-6df666794607-item-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Customer service",
+            "content": "<p>We are available from monday to friday to answer your questions.<\/p>"
+          }
+        },
+        "template--21272916820286__fe81cd8a-78e1-4c4b-87ec-6df666794607-item-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.<\/p>"
+          }
+        },
+        "83e2d629-9beb-4299-8605-ddc63d1e3f5d": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-leaf",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#d73333",
+            "icon_color": "#ffffff",
+            "title": "Heading",
+            "content": "<p>Short content about your store<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21272916820286__fe81cd8a-78e1-4c4b-87ec-6df666794607-item-1",
+        "template--21272916820286__fe81cd8a-78e1-4c4b-87ec-6df666794607-item-2",
+        "template--21272916820286__fe81cd8a-78e1-4c4b-87ec-6df666794607-item-3",
+        "83e2d629-9beb-4299-8605-ddc63d1e3f5d"
+      ],
+      "settings": {
+        "full_width": true,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
         "slide-1": {
           "type": "image",
           "settings": {
-            "mobile_image": "shopify:\/\/shop_images\/H3455232cf590423ebba3fd506722e23c9.jpg_960x960_603dd261-da76-4acd-9ef6-5f23f4877e80.webp",
+            "image": "shopify:\/\/shop_images\/EZ_Picnic_Table_1920_x_1200_px_2.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/EZ_Picnic_Table_Mobile_1200_x_1600_px.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
-            "heading_tag": "h0",
+            "subheading": "Portable, Durable, and Convenient – Unleash a Premium Picnic Experience Anywhere, Anytime!",
+            "title": "EZ Picnic Table: Your Perfect Outdoor Companion!",
+            "heading_tag": "h2",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
@@ -109,6 +203,7 @@
       "block_order": [
         "slide-1"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -192,6 +287,7 @@
         "1664424046b00c932c-3",
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "block_size": "medium",
@@ -382,6 +478,7 @@
         "1664424230c4756b0e-1",
         "1664424230c4756b0e-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -500,6 +597,7 @@
     },
     "before-after-image": {
       "type": "before-after-image",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "subheading": "",
@@ -605,6 +703,7 @@
         "1664424434f5b7d0e0-1",
         "1664424434f5b7d0e0-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "title": "",
@@ -657,6 +756,7 @@
         "1664424486a2b084ab-0",
         "1664424486a2b084ab-1"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "images_layout": "scattered",
@@ -938,6 +1038,8 @@
   "order": [
     "5d7e1bbc-2b44-42df-8d9a-42873a039490",
     "bf3b9fa8-0815-497f-a1cf-d16af1bec64e",
+    "be9c43d9-4928-4c31-8f93-a85101cd601d",
+    "fe81cd8a-78e1-4c4b-87ec-6df666794607",
     "slideshow",
     "image-link-blocks",
     "scrolling-text",
