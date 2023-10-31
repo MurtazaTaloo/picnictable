@@ -22,41 +22,20 @@
             "background": "",
             "background_gradient": ""
           }
-        },
-        "slide-2": {
-          "type": "image",
-          "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
         }
       },
       "block_order": [
-        "slide-1",
-        "slide-2"
+        "slide-1"
       ],
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
+        "allow_transparent_header": false,
         "image_size": "auto",
         "controls_type": "numbers",
         "transition_type": "fade_with_text",
         "autoplay": true,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
@@ -212,6 +191,7 @@
         "collection-2",
         "collection-3"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_collections": false,
@@ -231,6 +211,7 @@
     },
     "featured-collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "",
         "products": [
@@ -425,10 +406,12 @@
         "item-3",
         "29246d34-c6e0-4373-84f6-b15e57736a00"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "reduce_width": false,
         "desktop_row_height": 290,
+        "mobile_row_height": 150,
         "background": "",
         "background_gradient": ""
       }
@@ -450,7 +433,9 @@
         "background_gradient": "",
         "text_color": "",
         "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff"
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
       }
     },
     "press": {
