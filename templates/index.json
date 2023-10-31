@@ -359,32 +359,67 @@
     "6a332497-09ee-4a28-a5d7-d738ae669426": {
       "type": "images-with-text-scrolling",
       "blocks": {
+        "template--21272916820286__6a332497-09ee-4a28-a5d7-d738ae669426-item-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        },
         "template--21272916820286__6a332497-09ee-4a28-a5d7-d738ae669426-item-1": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/1.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Heading 1",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
           }
         },
-        "template--21272916820286__6a332497-09ee-4a28-a5d7-d738ae669426-item-2": {
+        "b42319a4-f7af-40b3-9874-cbbfbb0e1d7a": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/2.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading 2",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "660baea7-1202-4336-9d22-b7cae23496d2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "940b70c4-e99e-47fa-8556-be7485a5529c": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
           }
         }
       },
       "block_order": [
+        "template--21272916820286__6a332497-09ee-4a28-a5d7-d738ae669426-item-2",
         "template--21272916820286__6a332497-09ee-4a28-a5d7-d738ae669426-item-1",
-        "template--21272916820286__6a332497-09ee-4a28-a5d7-d738ae669426-item-2"
+        "b42319a4-f7af-40b3-9874-cbbfbb0e1d7a",
+        "660baea7-1202-4336-9d22-b7cae23496d2",
+        "940b70c4-e99e-47fa-8556-be7485a5529c"
       ],
       "settings": {
         "full_width": true,
-        "stack_on_mobile": true,
+        "stack_on_mobile": false,
         "show_counter": true,
         "desktop_image_effect": "reveal",
         "image_position": "end",
