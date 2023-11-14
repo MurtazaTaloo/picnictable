@@ -242,7 +242,7 @@
         "940b70c4-e99e-47fa-8556-be7485a5529c"
       ],
       "custom_css": [
-        "p.h1{font-size:25px;}"
+        "p.h1 {font-size: 25px;}"
       ],
       "settings": {
         "full_width": true,
@@ -353,7 +353,7 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "DIMENSIONS",
+        "title": "SPECIFICATIONS",
         "content": "",
         "button_text": "",
         "button_url": "",
