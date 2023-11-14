@@ -183,16 +183,6 @@
     "6a332497-09ee-4a28-a5d7-d738ae669426": {
       "type": "images-with-text-scrolling",
       "blocks": {
-        "template--21272916820286__6a332497-09ee-4a28-a5d7-d738ae669426-item-2": {
-          "type": "item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/7.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Aluminum Alloy Panel",
-            "content": "<p>At the heart of the EZ Picnic Table lies its <strong>aluminum alloy panel<\/strong> - sleek, modern, and incredibly functional. Not only is it easy to clean after those inevitable picnic spills, but its rust-resistant nature ensures your table remains as fresh as the first day you bought it.<\/p>"
-          }
-        },
         "template--21272916820286__6a332497-09ee-4a28-a5d7-d738ae669426-item-1": {
           "type": "item",
           "settings": {
@@ -232,14 +222,24 @@
             "title": "Convenient Storage Bag",
             "content": "<p>Every EZ Picnic Table comes with its <strong>convenient storage bag<\/strong>. Fold it, bag it, and you're ready to move! With this feature, transporting your picnic table becomes as breezy as your picnic day.<\/p>"
           }
+        },
+        "template--21272916820286__6a332497-09ee-4a28-a5d7-d738ae669426-item-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Aluminum Alloy Panel",
+            "content": "<p>At the heart of the EZ Picnic Table lies its <strong>aluminum alloy panel<\/strong> - sleek, modern, and incredibly functional. Not only is it easy to clean after those inevitable picnic spills, but its rust-resistant nature ensures your table remains as fresh as the first day you bought it.<\/p>"
+          }
         }
       },
       "block_order": [
-        "template--21272916820286__6a332497-09ee-4a28-a5d7-d738ae669426-item-2",
         "template--21272916820286__6a332497-09ee-4a28-a5d7-d738ae669426-item-1",
         "b42319a4-f7af-40b3-9874-cbbfbb0e1d7a",
         "660baea7-1202-4336-9d22-b7cae23496d2",
-        "940b70c4-e99e-47fa-8556-be7485a5529c"
+        "940b70c4-e99e-47fa-8556-be7485a5529c",
+        "template--21272916820286__6a332497-09ee-4a28-a5d7-d738ae669426-item-2"
       ],
       "custom_css": [
         "p.h1 {font-size: 25px;}"
