@@ -440,6 +440,38 @@
         "heading_gradient": ""
       }
     },
+    "99c09664-9b98-4fc3-bb1f-48d8539cd296": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21272916820286__99c09664-9b98-4fc3-bb1f-48d8539cd296-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "EZ ASSEMBLY: SETUP IN SECONDS",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "template--21272916820286__99c09664-9b98-4fc3-bb1f-48d8539cd296-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>We believe that picnics should be about relaxation, not puzzles. That’s why the EZ Picnic Table is designed for a quick and easy setup. Expand, buckle up, open, and voila – you’re ready to enjoy! A low picnic table that combines simplicity with elegance.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21272916820286__99c09664-9b98-4fc3-bb1f-48d8539cd296-heading-1",
+        "template--21272916820286__99c09664-9b98-4fc3-bb1f-48d8539cd296-richtext-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -719,6 +751,7 @@
     "press",
     "multiple-images-with-text",
     "6a332497-09ee-4a28-a5d7-d738ae669426",
+    "99c09664-9b98-4fc3-bb1f-48d8539cd296",
     "featured-product",
     "feature-chart",
     "faq"
