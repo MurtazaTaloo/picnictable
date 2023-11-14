@@ -120,7 +120,7 @@
           "type": "heading",
           "settings": {
             "text": "FEATURES",
-            "heading_tag": "h1",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -350,7 +350,7 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Dimensions",
+        "title": "DIMENSIONS",
         "content": "",
         "button_text": "",
         "button_url": "",
@@ -380,7 +380,7 @@
           "type": "heading",
           "settings": {
             "text": "EZ ASSEMBLY: READY IN A SNAP",
-            "heading_tag": "h1",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -443,7 +443,7 @@
           "type": "heading",
           "settings": {
             "text": "HEAR FROM THE HAPPY USERS",
-            "heading_tag": "h1",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -696,6 +696,7 @@
         "template--21272916820286__74440f45-52ed-4c38-9a2d-05aac5988fe4-subheading-1",
         "template--21272916820286__74440f45-52ed-4c38-9a2d-05aac5988fe4-heading-1"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "content_width": "small",
