@@ -241,6 +241,9 @@
         "660baea7-1202-4336-9d22-b7cae23496d2",
         "940b70c4-e99e-47fa-8556-be7485a5529c"
       ],
+      "custom_css": [
+        "p.h1{font-size:25px;}"
+      ],
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
