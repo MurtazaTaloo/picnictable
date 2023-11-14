@@ -697,7 +697,7 @@
             "heading_1": "Heading 1",
             "heading_2": "Heading 2",
             "heading_3": "Heading 3",
-            "heading_4": "Heading 4",
+            "heading_4": "",
             "heading_5": "",
             "heading_6": "",
             "heading_7": "",
@@ -714,34 +714,6 @@
             "heading_18": "",
             "heading_19": "",
             "heading_20": ""
-          }
-        },
-        "16644246508f6fa13a-1": {
-          "type": "values",
-          "settings": {
-            "product": "",
-            "value_1": "<p>Yes<\/p>",
-            "value_2": "<p>Yes<\/p>",
-            "value_3": "<p>No<\/p>",
-            "value_4": "<p>No<\/p>",
-            "value_5": "",
-            "value_6": "",
-            "value_7": "",
-            "value_8": "",
-            "value_9": "",
-            "value_10": "",
-            "value_11": "",
-            "value_12": "",
-            "value_13": "",
-            "value_14": "",
-            "value_15": "",
-            "value_16": "",
-            "value_17": "",
-            "value_18": "",
-            "value_19": "",
-            "value_20": "",
-            "view_button_background": "",
-            "view_button_text_color": ""
           }
         },
         "16644246508f6fa13a-2": {
@@ -775,17 +747,16 @@
       },
       "block_order": [
         "16644246508f6fa13a-0",
-        "16644246508f6fa13a-1",
         "16644246508f6fa13a-2"
       ],
       "settings": {
         "full_width": true,
-        "subheading": "Compare",
+        "subheading": "",
         "title": "Product specification",
         "content": "<p>Give your customers useful information about your products and showcase differences between them.<\/p>",
         "button_text": "",
         "button_url": "",
-        "text_position": "start",
+        "text_position": "center",
         "max_rows": 5,
         "view_all_text": "View all",
         "view_less_text": "View less",
