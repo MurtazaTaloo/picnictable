@@ -472,6 +472,37 @@
         "text_color": ""
       }
     },
+    "43c42a75-5e89-4a9c-91ed-b7dd10474ab1": {
+      "type": "video",
+      "blocks": {
+        "template--21272916820286__43c42a75-5e89-4a9c-91ed-b7dd10474ab1-play-1": {
+          "type": "play",
+          "settings": {
+          }
+        },
+        "template--21272916820286__43c42a75-5e89-4a9c-91ed-b7dd10474ab1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Watch How It's Done",
+            "heading_tag": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "template--21272916820286__43c42a75-5e89-4a9c-91ed-b7dd10474ab1-play-1",
+        "template--21272916820286__43c42a75-5e89-4a9c-91ed-b7dd10474ab1-heading-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -752,6 +783,7 @@
     "multiple-images-with-text",
     "6a332497-09ee-4a28-a5d7-d738ae669426",
     "99c09664-9b98-4fc3-bb1f-48d8539cd296",
+    "43c42a75-5e89-4a9c-91ed-b7dd10474ab1",
     "featured-product",
     "feature-chart",
     "faq"
