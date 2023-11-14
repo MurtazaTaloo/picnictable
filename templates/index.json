@@ -431,7 +431,7 @@
         "full_width": true,
         "stack_on_mobile": false,
         "show_counter": true,
-        "desktop_image_effect": "reveal",
+        "desktop_image_effect": "fade",
         "image_position": "end",
         "background": "",
         "background_gradient": "",
@@ -501,6 +501,93 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
+      }
+    },
+    "12a33081-342b-42ac-94c9-23c511f9c252": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21272916820286__12a33081-342b-42ac-94c9-23c511f9c252-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "HEAR FROM THE HAPPY USERS",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21272916820286__12a33081-342b-42ac-94c9-23c511f9c252-heading-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "e8ad8c98-4ca0-4721-a671-c5a44724a9b7": {
+      "type": "press",
+      "blocks": {
+        "template--21272916820286__e8ad8c98-4ca0-4721-a671-c5a44724a9b7-quote-1": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "template--21272916820286__e8ad8c98-4ca0-4721-a671-c5a44724a9b7-quote-2": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "template--21272916820286__e8ad8c98-4ca0-4721-a671-c5a44724a9b7-quote-3": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "c6baf929-920c-460d-9830-b25be5bb3186": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        }
+      },
+      "block_order": [
+        "template--21272916820286__e8ad8c98-4ca0-4721-a671-c5a44724a9b7-quote-1",
+        "template--21272916820286__e8ad8c98-4ca0-4721-a671-c5a44724a9b7-quote-2",
+        "template--21272916820286__e8ad8c98-4ca0-4721-a671-c5a44724a9b7-quote-3",
+        "c6baf929-920c-460d-9830-b25be5bb3186"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
       }
     },
     "featured-product": {
@@ -784,6 +871,8 @@
     "6a332497-09ee-4a28-a5d7-d738ae669426",
     "99c09664-9b98-4fc3-bb1f-48d8539cd296",
     "43c42a75-5e89-4a9c-91ed-b7dd10474ab1",
+    "12a33081-342b-42ac-94c9-23c511f9c252",
+    "e8ad8c98-4ca0-4721-a671-c5a44724a9b7",
     "featured-product",
     "feature-chart",
     "faq"
