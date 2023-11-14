@@ -688,15 +688,15 @@
         "input_text_color": ""
       }
     },
-    "feature-chart": {
+    "06552fd5-94fa-473f-8069-87cca990f5bb": {
       "type": "feature-chart",
       "blocks": {
-        "16644246508f6fa13a-0": {
+        "template--21272916820286__06552fd5-94fa-473f-8069-87cca990f5bb-headings-1": {
           "type": "headings",
           "settings": {
             "heading_1": "Heading 1",
-            "heading_2": "Heading 2",
-            "heading_3": "Heading 3",
+            "heading_2": "",
+            "heading_3": "",
             "heading_4": "",
             "heading_5": "",
             "heading_6": "",
@@ -716,12 +716,40 @@
             "heading_20": ""
           }
         },
-        "16644246508f6fa13a-2": {
+        "template--21272916820286__06552fd5-94fa-473f-8069-87cca990f5bb-values-1": {
           "type": "values",
           "settings": {
             "product": "",
-            "value_1": "<p>No<\/p>",
-            "value_2": "<p>Yes<\/p>",
+            "value_1": "<p>Capacity<\/p><p>Material<\/p><p>Net Weight<\/p>",
+            "value_2": "",
+            "value_3": "",
+            "value_4": "",
+            "value_5": "",
+            "value_6": "",
+            "value_7": "",
+            "value_8": "",
+            "value_9": "",
+            "value_10": "",
+            "value_11": "",
+            "value_12": "",
+            "value_13": "",
+            "value_14": "",
+            "value_15": "",
+            "value_16": "",
+            "value_17": "",
+            "value_18": "",
+            "value_19": "",
+            "value_20": "",
+            "view_button_background": "",
+            "view_button_text_color": ""
+          }
+        },
+        "template--21272916820286__06552fd5-94fa-473f-8069-87cca990f5bb-values-2": {
+          "type": "values",
+          "settings": {
+            "product": "",
+            "value_1": "<p>10 kg<\/p><p>Aluminum<\/p><p>600 g<\/p>",
+            "value_2": "",
             "value_3": "<p>Yes<\/p>",
             "value_4": "<p>No<\/p>",
             "value_5": "",
@@ -746,14 +774,134 @@
         }
       },
       "block_order": [
+        "template--21272916820286__06552fd5-94fa-473f-8069-87cca990f5bb-headings-1",
+        "template--21272916820286__06552fd5-94fa-473f-8069-87cca990f5bb-values-1",
+        "template--21272916820286__06552fd5-94fa-473f-8069-87cca990f5bb-values-2"
+      ],
+      "custom_css": [
+        ".feature-chart__heading {display: none;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Specifications",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "max_rows": 5,
+        "view_all_text": "View all",
+        "view_less_text": "View less",
+        "view_product": "View",
+        "viewing_product": "",
+        "show_product_swatch": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "chart_background": "",
+        "chart_text_color": "",
+        "chart_true_false_color": ""
+      }
+    },
+    "feature-chart": {
+      "type": "feature-chart",
+      "blocks": {
+        "16644246508f6fa13a-0": {
+          "type": "headings",
+          "settings": {
+            "heading_1": "Folded Dimensions",
+            "heading_2": "Unfolded Dimensions",
+            "heading_3": "",
+            "heading_4": "",
+            "heading_5": "",
+            "heading_6": "",
+            "heading_7": "",
+            "heading_8": "",
+            "heading_9": "",
+            "heading_10": "",
+            "heading_11": "",
+            "heading_12": "",
+            "heading_13": "",
+            "heading_14": "",
+            "heading_15": "",
+            "heading_16": "",
+            "heading_17": "",
+            "heading_18": "",
+            "heading_19": "",
+            "heading_20": ""
+          }
+        },
+        "66b7988d-4390-4fce-b169-60a4417ecdcf": {
+          "type": "values",
+          "settings": {
+            "product": "",
+            "value_1": "<p>Length<\/p><p>Height<\/p><p>Width<\/p>",
+            "value_2": "<p>Length<\/p><p>Height<\/p><p>Width<\/p>",
+            "value_3": "",
+            "value_4": "",
+            "value_5": "",
+            "value_6": "",
+            "value_7": "",
+            "value_8": "",
+            "value_9": "",
+            "value_10": "",
+            "value_11": "",
+            "value_12": "",
+            "value_13": "",
+            "value_14": "",
+            "value_15": "",
+            "value_16": "",
+            "value_17": "",
+            "value_18": "",
+            "value_19": "",
+            "value_20": "",
+            "view_button_background": "",
+            "view_button_text_color": ""
+          }
+        },
+        "16644246508f6fa13a-2": {
+          "type": "values",
+          "settings": {
+            "product": "",
+            "value_1": "<p>41.2 cm<\/p><p>5.5 cm<\/p><p>6.7 cm<\/p>",
+            "value_2": "<p>41.2 cm<\/p><p>29 cm<\/p><p>13 cm<\/p>",
+            "value_3": "",
+            "value_4": "<p>No<\/p>",
+            "value_5": "",
+            "value_6": "",
+            "value_7": "",
+            "value_8": "",
+            "value_9": "",
+            "value_10": "",
+            "value_11": "",
+            "value_12": "",
+            "value_13": "",
+            "value_14": "",
+            "value_15": "",
+            "value_16": "",
+            "value_17": "",
+            "value_18": "",
+            "value_19": "",
+            "value_20": "",
+            "view_button_background": "",
+            "view_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
         "16644246508f6fa13a-0",
+        "66b7988d-4390-4fce-b169-60a4417ecdcf",
         "16644246508f6fa13a-2"
       ],
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Product specification",
-        "content": "<p>Give your customers useful information about your products and showcase differences between them.<\/p>",
+        "title": "Dimensions",
+        "content": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
@@ -826,6 +974,38 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "74440f45-52ed-4c38-9a2d-05aac5988fe4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21272916820286__74440f45-52ed-4c38-9a2d-05aac5988fe4-subheading-1": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--21272916820286__74440f45-52ed-4c38-9a2d-05aac5988fe4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21272916820286__74440f45-52ed-4c38-9a2d-05aac5988fe4-subheading-1",
+        "template--21272916820286__74440f45-52ed-4c38-9a2d-05aac5988fe4-heading-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -845,7 +1025,9 @@
     "12a33081-342b-42ac-94c9-23c511f9c252",
     "e8ad8c98-4ca0-4721-a671-c5a44724a9b7",
     "featured-product",
+    "06552fd5-94fa-473f-8069-87cca990f5bb",
     "feature-chart",
-    "faq"
+    "faq",
+    "74440f45-52ed-4c38-9a2d-05aac5988fe4"
   ]
 }
