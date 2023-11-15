@@ -348,7 +348,8 @@
         "16644246508f6fa13a-2"
       ],
       "custom_css": [
-
+        "{}",
+        ".h2 {font-size: 20px;}"
       ],
       "settings": {
         "full_width": true,
