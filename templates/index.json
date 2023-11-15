@@ -242,6 +242,7 @@
         "template--21272916820286__6a332497-09ee-4a28-a5d7-d738ae669426-item-2"
       ],
       "custom_css": [
+        ".section--narrow.section-blends.section-full {padding-bottom: 10px;}",
         "p.h1 {font-size: 25px;}"
       ],
       "settings": {
