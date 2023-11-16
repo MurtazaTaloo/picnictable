@@ -310,6 +310,16 @@
             "title": "Aluminum Alloy Panel",
             "content": "<p>At the heart of the EZ Picnic Table lies its <strong>aluminum alloy panel<\/strong> - sleek, modern, and incredibly functional. Not only is it easy to clean after those inevitable picnic spills, but its rust-resistant nature ensures your table remains as fresh as the first day you bought it.<\/p>"
           }
+        },
+        "657c0e69-0470-455e-8e47-10fb8540eac4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_27.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "EZ ASSEMBLY: READY IN A SNAP",
+            "content": "<p>We believe that picnics should be about relaxation, not puzzles. That’s why the EZ Picnic Table is designed for a quick and easy setup. Expand, buckle up, open, and voila – you’re ready to enjoy! A low picnic table that combines simplicity with elegance.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -317,7 +327,8 @@
         "b42319a4-f7af-40b3-9874-cbbfbb0e1d7a",
         "660baea7-1202-4336-9d22-b7cae23496d2",
         "940b70c4-e99e-47fa-8556-be7485a5529c",
-        "template--21272916820286__6a332497-09ee-4a28-a5d7-d738ae669426-item-2"
+        "template--21272916820286__6a332497-09ee-4a28-a5d7-d738ae669426-item-2",
+        "657c0e69-0470-455e-8e47-10fb8540eac4"
       ],
       "custom_css": [
         ".section--narrow.section-blends.section-full {padding-bottom: 10px;}",
@@ -335,6 +346,41 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "43c42a75-5e89-4a9c-91ed-b7dd10474ab1": {
+      "type": "video",
+      "blocks": {
+        "template--21272916820286__43c42a75-5e89-4a9c-91ed-b7dd10474ab1-play-1": {
+          "type": "play",
+          "settings": {
+          }
+        },
+        "template--21272916820286__43c42a75-5e89-4a9c-91ed-b7dd10474ab1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Watch How It's Done",
+            "heading_tag": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "template--21272916820286__43c42a75-5e89-4a9c-91ed-b7dd10474ab1-play-1",
+        "template--21272916820286__43c42a75-5e89-4a9c-91ed-b7dd10474ab1-heading-1"
+      ],
+      "custom_css": [
+        "{padding-top: 20px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "video": "shopify:\/\/files\/videos\/EZ Picnic Table Setup Video.mp4",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "feature-chart": {
@@ -428,7 +474,6 @@
         "16644246508f6fa13a-2"
       ],
       "custom_css": [
-        "{padding-top: 30px;}",
         ".h2 {font-size: 20px;}"
       ],
       "settings": {
@@ -480,6 +525,7 @@
         "template--21272916820286__99c09664-9b98-4fc3-bb1f-48d8539cd296-heading-1",
         "template--21272916820286__99c09664-9b98-4fc3-bb1f-48d8539cd296-richtext-1"
       ],
+      "disabled": true,
       "custom_css": [
         "{padding-top: 20px;}",
         ".section-blends.section-full {padding-bottom: 20px;}"
@@ -493,41 +539,6 @@
         "text_color": ""
       }
     },
-    "43c42a75-5e89-4a9c-91ed-b7dd10474ab1": {
-      "type": "video",
-      "blocks": {
-        "template--21272916820286__43c42a75-5e89-4a9c-91ed-b7dd10474ab1-play-1": {
-          "type": "play",
-          "settings": {
-          }
-        },
-        "template--21272916820286__43c42a75-5e89-4a9c-91ed-b7dd10474ab1-heading-1": {
-          "type": "heading",
-          "settings": {
-            "text": "Watch How It's Done",
-            "heading_tag": "h3"
-          }
-        }
-      },
-      "block_order": [
-        "template--21272916820286__43c42a75-5e89-4a9c-91ed-b7dd10474ab1-play-1",
-        "template--21272916820286__43c42a75-5e89-4a9c-91ed-b7dd10474ab1-heading-1"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "auto",
-        "video": "shopify:\/\/files\/videos\/EZ Picnic Table Setup Video.mp4",
-        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "12a33081-342b-42ac-94c9-23c511f9c252": {
       "type": "rich-text",
       "blocks": {
@@ -535,7 +546,7 @@
           "type": "heading",
           "settings": {
             "text": "HEAR FROM THE HAPPY USERS",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -543,6 +554,9 @@
       },
       "block_order": [
         "template--21272916820286__12a33081-342b-42ac-94c9-23c511f9c252-heading-1"
+      ],
+      "custom_css": [
+        "{padding-top:30px;}"
       ],
       "settings": {
         "full_width": true,
@@ -599,7 +613,7 @@
         "full_width": true,
         "stack_testimonials": false,
         "subheading": "",
-        "title": "Testimonials",
+        "title": "",
         "content": "",
         "link_url": "",
         "link_text": "",
@@ -883,9 +897,9 @@
     "773a9e95-957d-491c-8247-8c3c5d578992",
     "slideshow",
     "6a332497-09ee-4a28-a5d7-d738ae669426",
+    "43c42a75-5e89-4a9c-91ed-b7dd10474ab1",
     "feature-chart",
     "99c09664-9b98-4fc3-bb1f-48d8539cd296",
-    "43c42a75-5e89-4a9c-91ed-b7dd10474ab1",
     "12a33081-342b-42ac-94c9-23c511f9c252",
     "b3b8f4a7-9c57-44d7-b148-712ec94871ae",
     "e8ad8c98-4ca0-4721-a671-c5a44724a9b7",
