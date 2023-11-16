@@ -428,7 +428,7 @@
         "16644246508f6fa13a-2"
       ],
       "custom_css": [
-        "{}",
+        "{padding-top: 30px;}",
         ".h2 {font-size: 20px;}"
       ],
       "settings": {
