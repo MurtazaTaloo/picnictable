@@ -322,7 +322,7 @@
       "custom_css": [
         ".section--narrow.section-blends.section-full {padding-bottom: 10px;}",
         "p.h1 {font-size: 25px;}",
-        "@media screen and (min-width: 600px){img {max-width:500px;}}"
+        "@media screen and (min-width: 600px) {img {max-width: 800px; }}"
       ],
       "settings": {
         "full_width": false,
