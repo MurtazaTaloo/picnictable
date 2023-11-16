@@ -481,7 +481,8 @@
         "template--21272916820286__99c09664-9b98-4fc3-bb1f-48d8539cd296-richtext-1"
       ],
       "custom_css": [
-        "{padding-top: 20px;}"
+        "{padding-top: 20px;}",
+        ".section-blends.section-full {padding-bottom: 20px;}"
       ],
       "settings": {
         "full_width": true,
