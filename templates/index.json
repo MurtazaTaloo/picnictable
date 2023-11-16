@@ -98,9 +98,9 @@
           "type": "item",
           "settings": {
             "icon": "picto-truck",
-            "custom_icon": "shopify:\/\/shop_images\/7.png",
-            "mobile_icon_width": 92,
-            "icon_width": 24,
+            "custom_icon": "shopify:\/\/shop_images\/7_f1051fa2-a310-4e71-b7cb-0a03d0bda4da.png",
+            "mobile_icon_width": 84,
+            "icon_width": 120,
             "icon_background_type": "circle",
             "icon_background": "#ffffff",
             "icon_color": "#d73333",
