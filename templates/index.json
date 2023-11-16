@@ -321,7 +321,8 @@
       ],
       "custom_css": [
         ".section--narrow.section-blends.section-full {padding-bottom: 10px;}",
-        "p.h1 {font-size: 25px;}"
+        "p.h1 {font-size: 25px;}",
+        "img{width:unset; max-width:600px;}"
       ],
       "settings": {
         "full_width": false,
