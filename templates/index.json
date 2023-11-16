@@ -94,13 +94,27 @@
     "2134d64e-9108-48cb-9747-98f4a3dfe92c": {
       "type": "text-with-icons",
       "blocks": {
+        "8eed93d4-c0a0-4976-9490-c8456f761673": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-envelope",
+            "custom_icon": "shopify:\/\/shop_images\/4_203912b3-d6f0-46fc-ad72-0420fa83efdd.png",
+            "mobile_icon_width": 80,
+            "icon_width": 100,
+            "icon_background_type": "circle",
+            "icon_background": "#ffffff",
+            "icon_color": "",
+            "title": "Proudly",
+            "content": "<p>Australian owned and operated<\/p>"
+          }
+        },
         "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-1": {
           "type": "item",
           "settings": {
             "icon": "picto-truck",
-            "custom_icon": "shopify:\/\/shop_images\/7_f1051fa2-a310-4e71-b7cb-0a03d0bda4da.png",
-            "mobile_icon_width": 84,
-            "icon_width": 120,
+            "custom_icon": "shopify:\/\/shop_images\/9_d7ae8702-b3dd-4547-bf8a-9078582d0251.png",
+            "mobile_icon_width": 80,
+            "icon_width": 100,
             "icon_background_type": "circle",
             "icon_background": "#ffffff",
             "icon_color": "#d73333",
@@ -112,8 +126,9 @@
           "type": "item",
           "settings": {
             "icon": "picto-return",
-            "mobile_icon_width": 48,
-            "icon_width": 32,
+            "custom_icon": "shopify:\/\/shop_images\/8_e378ecb8-80cc-4d8e-bb2e-9fe012bab281.png",
+            "mobile_icon_width": 80,
+            "icon_width": 100,
             "icon_background_type": "circle",
             "icon_background": "#ffffff",
             "icon_color": "#d73333",
@@ -125,35 +140,22 @@
           "type": "item",
           "settings": {
             "icon": "picto-chat",
-            "mobile_icon_width": 48,
-            "icon_width": 32,
+            "custom_icon": "shopify:\/\/shop_images\/15.png",
+            "mobile_icon_width": 80,
+            "icon_width": 100,
             "icon_background_type": "circle",
             "icon_background": "#ffffff",
             "icon_color": "#d73333",
             "title": "Local Customer Support",
             "content": "<p>Your payment information is processed securely.<\/p>"
           }
-        },
-        "8eed93d4-c0a0-4976-9490-c8456f761673": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-envelope",
-            "custom_icon": "shopify:\/\/shop_images\/Home_Page_Trust_Badges_250_x_250_px_150_x_150_px_7.png",
-            "mobile_icon_width": 76,
-            "icon_width": 52,
-            "icon_background_type": "circle",
-            "icon_background": "#ffffff",
-            "icon_color": "",
-            "title": "Heading",
-            "content": "<p>Short content about your store<\/p>"
-          }
         }
       },
       "block_order": [
+        "8eed93d4-c0a0-4976-9490-c8456f761673",
         "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-1",
         "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-2",
-        "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-3",
-        "8eed93d4-c0a0-4976-9490-c8456f761673"
+        "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-3"
       ],
       "settings": {
         "full_width": true,
