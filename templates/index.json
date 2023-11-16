@@ -20,6 +20,7 @@
         "template--21272916820286__bf3b9fa8-0815-497f-a1cf-d16af1bec64e-play-1",
         "template--21272916820286__bf3b9fa8-0815-497f-a1cf-d16af1bec64e-heading-1"
       ],
+      "disabled": true,
       "custom_css": [
         "@media only screen and (max-width: 500px) {div {display: none; }}",
         "p.h6 {background: #15d10170; color: white; max-width: 500px; margin: 0 auto; padding-top: 5px;}"
@@ -556,7 +557,7 @@
         "template--21272916820286__12a33081-342b-42ac-94c9-23c511f9c252-heading-1"
       ],
       "custom_css": [
-        "{padding-top:30px;}"
+        "{padding-top: 30px;}"
       ],
       "settings": {
         "full_width": true,
