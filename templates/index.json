@@ -322,7 +322,7 @@
       "custom_css": [
         ".section--narrow.section-blends.section-full {padding-bottom: 10px;}",
         "p.h1 {font-size: 25px;}",
-        "img{width:unset; max-width:600px;}"
+        "img {width: unset;}"
       ],
       "settings": {
         "full_width": false,
