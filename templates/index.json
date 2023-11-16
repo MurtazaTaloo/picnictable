@@ -56,6 +56,83 @@
         "overlay_opacity": 40
       }
     },
+    "2134d64e-9108-48cb-9747-98f4a3dfe92c": {
+      "type": "text-with-icons",
+      "blocks": {
+        "8eed93d4-c0a0-4976-9490-c8456f761673": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-envelope",
+            "custom_icon": "shopify:\/\/shop_images\/11_b97431e9-1d51-40f6-8db1-8b7cb77a4f0f.png",
+            "mobile_icon_width": 80,
+            "icon_width": 100,
+            "icon_background_type": "circle",
+            "icon_background": "#ffffff",
+            "icon_color": "",
+            "title": "Proudly",
+            "content": "<p>Australian owned and operated<\/p>"
+          }
+        },
+        "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-truck",
+            "custom_icon": "shopify:\/\/shop_images\/12.png",
+            "mobile_icon_width": 80,
+            "icon_width": 100,
+            "icon_background_type": "circle",
+            "icon_background": "#ffffff",
+            "icon_color": "#d73333",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included<\/p>"
+          }
+        },
+        "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-return",
+            "custom_icon": "shopify:\/\/shop_images\/13.png",
+            "mobile_icon_width": 80,
+            "icon_width": 100,
+            "icon_background_type": "circle",
+            "icon_background": "#ffffff",
+            "icon_color": "#d73333",
+            "title": "Easy Returns",
+            "content": "<p>We are available from monday to friday to answer your questions.<\/p>"
+          }
+        },
+        "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-chat",
+            "custom_icon": "shopify:\/\/shop_images\/14_93473676-a5d0-4813-b46d-7b564923c55e.png",
+            "mobile_icon_width": 80,
+            "icon_width": 100,
+            "icon_background_type": "circle",
+            "icon_background": "#ffffff",
+            "icon_color": "#d73333",
+            "title": "Local Customer Support",
+            "content": "<p>Your payment information is processed securely.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "8eed93d4-c0a0-4976-9490-c8456f761673",
+        "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-1",
+        "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-2",
+        "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-3"
+      ],
+      "settings": {
+        "full_width": true,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "bf3b9fa8-0815-497f-a1cf-d16af1bec64e": {
       "type": "video",
       "blocks": {
@@ -91,83 +168,6 @@
         "overlay_opacity": 30
       }
     },
-    "2134d64e-9108-48cb-9747-98f4a3dfe92c": {
-      "type": "text-with-icons",
-      "blocks": {
-        "8eed93d4-c0a0-4976-9490-c8456f761673": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-envelope",
-            "custom_icon": "shopify:\/\/shop_images\/4_203912b3-d6f0-46fc-ad72-0420fa83efdd.png",
-            "mobile_icon_width": 80,
-            "icon_width": 100,
-            "icon_background_type": "circle",
-            "icon_background": "#ffffff",
-            "icon_color": "",
-            "title": "Proudly",
-            "content": "<p>Australian owned and operated<\/p>"
-          }
-        },
-        "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-1": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-truck",
-            "custom_icon": "shopify:\/\/shop_images\/9_d7ae8702-b3dd-4547-bf8a-9078582d0251.png",
-            "mobile_icon_width": 80,
-            "icon_width": 100,
-            "icon_background_type": "circle",
-            "icon_background": "#ffffff",
-            "icon_color": "#d73333",
-            "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included<\/p>"
-          }
-        },
-        "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-2": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-return",
-            "custom_icon": "shopify:\/\/shop_images\/8_e378ecb8-80cc-4d8e-bb2e-9fe012bab281.png",
-            "mobile_icon_width": 80,
-            "icon_width": 100,
-            "icon_background_type": "circle",
-            "icon_background": "#ffffff",
-            "icon_color": "#d73333",
-            "title": "Easy Returns",
-            "content": "<p>We are available from monday to friday to answer your questions.<\/p>"
-          }
-        },
-        "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-3": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-chat",
-            "custom_icon": "shopify:\/\/shop_images\/15.png",
-            "mobile_icon_width": 80,
-            "icon_width": 100,
-            "icon_background_type": "circle",
-            "icon_background": "#ffffff",
-            "icon_color": "#d73333",
-            "title": "Local Customer Support",
-            "content": "<p>Your payment information is processed securely.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "8eed93d4-c0a0-4976-9490-c8456f761673",
-        "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-1",
-        "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-2",
-        "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-3"
-      ],
-      "settings": {
-        "full_width": true,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "be9c43d9-4928-4c31-8f93-a85101cd601d": {
       "type": "rich-text",
       "blocks": {
@@ -185,7 +185,7 @@
         "full_width": true,
         "content_width": "large",
         "text_position": "center",
-        "background": "#d73333",
+        "background": "#2d2e2e",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -545,6 +545,65 @@
         "text_color": ""
       }
     },
+    "b3b8f4a7-9c57-44d7-b148-712ec94871ae": {
+      "type": "testimonials",
+      "blocks": {
+        "template--21272916820286__b3b8f4a7-9c57-44d7-b148-712ec94871ae-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>"
+          }
+        },
+        "template--21272916820286__b3b8f4a7-9c57-44d7-b148-712ec94871ae-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>"
+          }
+        },
+        "template--21272916820286__b3b8f4a7-9c57-44d7-b148-712ec94871ae-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21272916820286__b3b8f4a7-9c57-44d7-b148-712ec94871ae-testimonial-1",
+        "template--21272916820286__b3b8f4a7-9c57-44d7-b148-712ec94871ae-testimonial-2",
+        "template--21272916820286__b3b8f4a7-9c57-44d7-b148-712ec94871ae-testimonial-3"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "Testimonials",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
     "e8ad8c98-4ca0-4721-a671-c5a44724a9b7": {
       "type": "press",
       "blocks": {
@@ -595,6 +654,7 @@
         "template--21272916820286__e8ad8c98-4ca0-4721-a671-c5a44724a9b7-quote-3",
         "c6baf929-920c-460d-9830-b25be5bb3186"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "content_size": "medium",
@@ -809,8 +869,8 @@
   },
   "order": [
     "5d7e1bbc-2b44-42df-8d9a-42873a039490",
-    "bf3b9fa8-0815-497f-a1cf-d16af1bec64e",
     "2134d64e-9108-48cb-9747-98f4a3dfe92c",
+    "bf3b9fa8-0815-497f-a1cf-d16af1bec64e",
     "be9c43d9-4928-4c31-8f93-a85101cd601d",
     "773a9e95-957d-491c-8247-8c3c5d578992",
     "slideshow",
@@ -819,6 +879,7 @@
     "99c09664-9b98-4fc3-bb1f-48d8539cd296",
     "43c42a75-5e89-4a9c-91ed-b7dd10474ab1",
     "12a33081-342b-42ac-94c9-23c511f9c252",
+    "b3b8f4a7-9c57-44d7-b148-712ec94871ae",
     "e8ad8c98-4ca0-4721-a671-c5a44724a9b7",
     "featured-product",
     "faq",
