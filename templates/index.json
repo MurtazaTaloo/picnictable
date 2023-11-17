@@ -225,6 +225,9 @@
       "block_order": [
         "template--21272916820286__be9c43d9-4928-4c31-8f93-a85101cd601d-richtext-1"
       ],
+      "custom_css": [
+        "@media only screen and (min-width: 501px){p{font-size: 20px;}}"
+      ],
       "settings": {
         "full_width": true,
         "content_width": "large",
