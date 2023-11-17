@@ -148,8 +148,8 @@
             "icon_background_type": "circle",
             "icon_background": "#ffffff",
             "icon_color": "",
-            "title": "Proudly",
-            "content": "<p>Australian owned and operated<\/p>"
+            "title": "Australian Owned",
+            "content": "<p>We are proudly Australian owned and operated small business<\/p>"
           }
         },
         "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-1": {
@@ -163,7 +163,7 @@
             "icon_background": "#ffffff",
             "icon_color": "#d73333",
             "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included<\/p>"
+            "content": "<p>We offer free Australia-wide shipping.<\/p>"
           }
         },
         "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-2": {
@@ -177,7 +177,7 @@
             "icon_background": "#ffffff",
             "icon_color": "#d73333",
             "title": "Easy Returns",
-            "content": "<p>We are available from monday to friday to answer your questions.<\/p>"
+            "content": "<p>Shop with confidence. Hassle-Free returns guaranteed<\/p>"
           }
         },
         "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-3": {
@@ -191,7 +191,7 @@
             "icon_background": "#ffffff",
             "icon_color": "#d73333",
             "title": "Local Customer Support",
-            "content": "<p>Your payment information is processed securely.<\/p>"
+            "content": "<p>We are available from Monday to Friday to answer your questions.<\/p>"
           }
         }
       },
@@ -226,7 +226,7 @@
         "template--21272916820286__be9c43d9-4928-4c31-8f93-a85101cd601d-richtext-1"
       ],
       "custom_css": [
-        "@media only screen and (min-width: 501px){p{font-size: 20px;}}"
+        "@media only screen and (min-width: 501px) {p {font-size: 20px; }}"
       ],
       "settings": {
         "full_width": true,
