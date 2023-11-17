@@ -56,6 +56,49 @@
         "overlay_opacity": 40
       }
     },
+    "1efa5c95-cb8b-43a1-a42c-f0a145b8b8fb": {
+      "type": "slideshow",
+      "blocks": {
+        "template--21272916820286__1efa5c95-cb8b-43a1-a42c-f0a145b8b8fb-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EZ_Picnic_Table_desktop_1920_x_1200_px.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center-end sm:text-end",
+            "subheading": "EZ Picnic Table: Your Perfect Outdoor Companion!",
+            "title": "Portable, Durable, and Convenient – Unleash a Premium Picnic Experience Anywhere, Anytime!",
+            "heading_tag": "h2",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21272916820286__1efa5c95-cb8b-43a1-a42c-f0a145b8b8fb-image-1"
+      ],
+      "custom_css": [
+        "@media only screen and (max-width: 501px) {div {display: none; }}"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
     "bf3b9fa8-0815-497f-a1cf-d16af1bec64e": {
       "type": "video",
       "blocks": {
@@ -76,6 +119,7 @@
         "template--21272916820286__bf3b9fa8-0815-497f-a1cf-d16af1bec64e-play-1",
         "template--21272916820286__bf3b9fa8-0815-497f-a1cf-d16af1bec64e-heading-1"
       ],
+      "disabled": true,
       "custom_css": [
         "@media only screen and (max-width: 500px) {div {display: none; }}",
         "p.h6 {background: #15d10170; color: white; max-width: 500px; margin: 0 auto; padding-top: 5px;}"
@@ -891,6 +935,7 @@
   },
   "order": [
     "5d7e1bbc-2b44-42df-8d9a-42873a039490",
+    "1efa5c95-cb8b-43a1-a42c-f0a145b8b8fb",
     "bf3b9fa8-0815-497f-a1cf-d16af1bec64e",
     "2134d64e-9108-48cb-9747-98f4a3dfe92c",
     "be9c43d9-4928-4c31-8f93-a85101cd601d",
