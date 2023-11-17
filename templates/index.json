@@ -931,6 +931,46 @@
         "text_color": "",
         "text_gradient": ""
       }
+    },
+    "f277338b-e1c4-4869-a114-aef5f0ea92f4": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "template--21272916820286__f277338b-e1c4-4869-a114-aef5f0ea92f4-subheading-1": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "template--21272916820286__f277338b-e1c4-4869-a114-aef5f0ea92f4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text overlay",
+            "heading_tag": "h1"
+          }
+        },
+        "template--21272916820286__f277338b-e1c4-4869-a114-aef5f0ea92f4-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21272916820286__f277338b-e1c4-4869-a114-aef5f0ea92f4-subheading-1",
+        "template--21272916820286__f277338b-e1c4-4869-a114-aef5f0ea92f4-heading-1",
+        "template--21272916820286__f277338b-e1c4-4869-a114-aef5f0ea92f4-richtext-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
@@ -951,6 +991,7 @@
     "featured-product",
     "faq",
     "74440f45-52ed-4c38-9a2d-05aac5988fe4",
-    "e2f608b7-8b01-4070-a828-b499f758771f"
+    "e2f608b7-8b01-4070-a828-b499f758771f",
+    "f277338b-e1c4-4869-a114-aef5f0ea92f4"
   ]
 }
