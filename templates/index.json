@@ -138,20 +138,6 @@
     "2134d64e-9108-48cb-9747-98f4a3dfe92c": {
       "type": "text-with-icons",
       "blocks": {
-        "8eed93d4-c0a0-4976-9490-c8456f761673": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-envelope",
-            "custom_icon": "shopify:\/\/shop_images\/11_b97431e9-1d51-40f6-8db1-8b7cb77a4f0f.png",
-            "mobile_icon_width": 80,
-            "icon_width": 100,
-            "icon_background_type": "circle",
-            "icon_background": "#ffffff",
-            "icon_color": "",
-            "title": "Australian Owned",
-            "content": "<p>We are proudly Australian owned and operated small business<\/p>"
-          }
-        },
         "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-1": {
           "type": "item",
           "settings": {
@@ -164,6 +150,20 @@
             "icon_color": "#d73333",
             "title": "Free shipping",
             "content": "<p>We offer free Australia-wide shipping.<\/p>"
+          }
+        },
+        "8eed93d4-c0a0-4976-9490-c8456f761673": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-envelope",
+            "custom_icon": "shopify:\/\/shop_images\/11_b97431e9-1d51-40f6-8db1-8b7cb77a4f0f.png",
+            "mobile_icon_width": 80,
+            "icon_width": 100,
+            "icon_background_type": "circle",
+            "icon_background": "#ffffff",
+            "icon_color": "",
+            "title": "Australian Owned",
+            "content": "<p>We are proudly Australian owned and operated small business<\/p>"
           }
         },
         "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-2": {
@@ -196,8 +196,8 @@
         }
       },
       "block_order": [
-        "8eed93d4-c0a0-4976-9490-c8456f761673",
         "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-1",
+        "8eed93d4-c0a0-4976-9490-c8456f761673",
         "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-2",
         "template--21272916820286__2134d64e-9108-48cb-9747-98f4a3dfe92c-item-3"
       ],
