@@ -8,11 +8,10 @@
           "settings": {
           }
         },
-        "template--21272916820286__5d7e1bbc-2b44-42df-8d9a-42873a039490-heading-1": {
-          "type": "heading",
+        "62ffde35-c983-4e6c-98f9-1217b274a658": {
+          "type": "subheading",
           "settings": {
-            "text": "EZ Picnic Table: Your Perfect Outdoor Companion!",
-            "heading_tag": "h2"
+            "text": "EZ Picnic Table: Your Perfect Outdoor Companion!"
           }
         },
         "a03cb168-86b2-4a11-9bab-7664a9932230": {
@@ -36,13 +35,14 @@
       },
       "block_order": [
         "template--21272916820286__5d7e1bbc-2b44-42df-8d9a-42873a039490-play-1",
-        "template--21272916820286__5d7e1bbc-2b44-42df-8d9a-42873a039490-heading-1",
+        "62ffde35-c983-4e6c-98f9-1217b274a658",
         "a03cb168-86b2-4a11-9bab-7664a9932230",
         "53a9178d-f295-4af1-b6fc-b947162b2f3a"
       ],
       "custom_css": [
         "@media only screen and (min-width: 501px) {div {display: none; }}",
-        "p.h6 {background: #15d10170; color: white; max-width: 500px; margin: 0 auto; padding-top: 5px;}"
+        "p.h6 {background: #15d10170; color: white; max-width: 500px; margin: 0 auto; padding-top: 5px;}",
+        "h1{font-size:30px;}"
       ],
       "settings": {
         "full_width": true,
@@ -86,7 +86,7 @@
       ],
       "custom_css": [
         "@media only screen and (max-width: 501px) {div {display: none; }}",
-        "[data-sequence=\"subheading\"]{font-size:25px;}"
+        "[data-sequence=\"subheading\"] {font-size: 25px;}"
       ],
       "settings": {
         "full_width": true,
