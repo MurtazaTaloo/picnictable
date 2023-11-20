@@ -69,7 +69,7 @@
 
               {%- when 'subheading' -%}
                 {%- if block.settings.text != blank -%}
-                  <p class="bold" {{ block.shopify_attributes }}>{{ block.settings.text | escape }}</p>
+                  <h1 class="bold" {{ block.shopify_attributes }}>{{ block.settings.text | escape }}</h1>
                 {%- endif -%}
 
               {%- when 'heading' -%}
