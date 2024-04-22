@@ -11,13 +11,13 @@
         "62ffde35-c983-4e6c-98f9-1217b274a658": {
           "type": "subheading",
           "settings": {
-            "text": "EZ Picnic Table: Your Perfect Outdoor Companion!"
+            "text": "EZ Picnic Table: Your Premier Choice for Low Picnic Tables!"
           }
         },
         "a03cb168-86b2-4a11-9bab-7664a9932230": {
           "type": "heading",
           "settings": {
-            "text": "Portable, Durable, and Convenient – Unleash a Premium Picnic Experience Anywhere, Anytime!",
+            "text": "Discover Portable, Durable, and Convenient Picnic Tables – Unleash a Premium Picnic Experience Anywhere, Anytime!",
             "heading_tag": "h5"
           }
         },
@@ -42,7 +42,7 @@
       "custom_css": [
         "@media only screen and (min-width: 501px) {div {display: none; }}",
         "p.h6 {background: #15d10170; color: white; max-width: 500px; margin: 0 auto; padding-top: 5px;}",
-        "h1{font-size:30px;}"
+        "h1 {font-size: 30px;}"
       ],
       "settings": {
         "full_width": true,
@@ -66,8 +66,8 @@
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center-end sm:text-end",
-            "subheading": "EZ Picnic Table: Your Perfect Outdoor Companion!",
-            "title": "Portable, Durable, and Convenient – Unleash a Premium Picnic Experience Anywhere, Anytime!",
+            "subheading": "EZ Picnic Table: Your Premier Choice for Low Picnic Tables!",
+            "title": "Discover Portable, Durable, and Convenient Picnic Tables – Unleash a Premium Picnic Experience Anywhere, Anytime!",
             "heading_tag": "h2",
             "button_text": "",
             "button_link": "",
@@ -219,7 +219,7 @@
         "template--21272916820286__be9c43d9-4928-4c31-8f93-a85101cd601d-richtext-1": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>Unfold a world of outdoor luxury with the EZ Picnic Table. Our folding mini picnic table is a blend of convenience, durability and style, designed to accompany you in every outdoor adventure. Made from sturdy aluminum, say goodbye to rust and paint loss, and hello to a lifetime of picnics!<\/strong><\/p>"
+            "content": "<p><strong>Unfold a world of outdoor luxury with the EZ Picnic Table. Our low picnic tables are the perfect blend of convenience, durability, and style, meticulously crafted to enhance your outdoor adventures. Crafted from resilient materials, these tables are engineered to resist rust and paint loss, ensuring a lifetime of unforgettable picnics.<\/strong><\/p>"
           }
         }
       },
@@ -316,7 +316,7 @@
             "icon": "none",
             "icon_width": 48,
             "title": "Lightweight & Foldable",
-            "content": "<p>Gone are the days of cumbersome and heavy picnic setups. Our <strong>Picnic Table<\/strong> is both <strong>lightweight and foldable<\/strong>, ensuring you can carry and set it up with ease wherever your adventure takes you.<\/p>"
+            "content": "<p>Gone are the days of cumbersome and heavy picnic setups. Our <strong>Low Picnic Table<\/strong> is both <strong>lightweight and foldable<\/strong>, ensuring you can carry and set it up with ease wherever your adventure takes you.<\/p>"
           }
         },
         "b42319a4-f7af-40b3-9874-cbbfbb0e1d7a": {
@@ -326,7 +326,7 @@
             "icon": "none",
             "icon_width": 48,
             "title": "High Load Capacity",
-            "content": "<p>The EZ Picnic Table is not just a visual treat but a powerhouse in disguise. With a <strong>load capacity of up to 10kg<\/strong>, you can place more than just your sandwiches and beverages. It's designed to support a delightful feast!<\/p>"
+            "content": "<p>The EZ Picnic Table is not just a visual treat but a powerhouse in disguise. With a <strong>load capacity of up to 10kg<\/strong>, this low picnic table can support a delightful feast, not just your snacks and drinks.<\/p>"
           }
         },
         "660baea7-1202-4336-9d22-b7cae23496d2": {
@@ -336,7 +336,7 @@
             "icon": "none",
             "icon_width": 48,
             "title": "Reinforced Support Frame",
-            "content": "<p>Built with a commitment to longevity, our Picnic Table boasts a <strong>reinforced support frame<\/strong>. This ensures it remains <strong>firm, durable, and resistant to deformations and bending<\/strong>. It stands the test of time, and terrain.<\/p>"
+            "content": "<p>This foldable Picnic Table is built to last. With a reinforced support frame, they stand firm and durable, resisting deformations and bending – a testament to their quality.<\/p>"
           }
         },
         "940b70c4-e99e-47fa-8556-be7485a5529c": {
@@ -356,7 +356,7 @@
             "icon": "none",
             "icon_width": 48,
             "title": "Aluminum Alloy Panel",
-            "content": "<p>At the heart of the EZ Picnic Table lies its <strong>aluminum alloy panel<\/strong> - sleek, modern, and incredibly functional. Not only is it easy to clean after those inevitable picnic spills, but its rust-resistant nature ensures your table remains as fresh as the first day you bought it.<\/p>"
+            "content": "<p>At the heart of the EZ Picnic Table lies its <strong>aluminum alloy panel<\/strong> - sleek, modern, and incredibly functional. Easy to clean and rust-resistant, it keeps your picnic table looking great.<\/p>"
           }
         },
         "657c0e69-0470-455e-8e47-10fb8540eac4": {
@@ -366,7 +366,7 @@
             "icon": "none",
             "icon_width": 48,
             "title": "EZ ASSEMBLY: READY IN A SNAP",
-            "content": "<p>We believe that picnics should be about relaxation, not puzzles. That’s why the EZ Picnic Table is designed for a quick and easy setup. Expand, buckle up, open, and voila – you’re ready to enjoy! A low picnic table that combines simplicity with elegance.<\/p>"
+            "content": "<p>We believe that picnics should be about relaxation, not puzzles. This Picnic Table is designed for quick and easy setup. Expand, buckle up, and open – you’re ready for a relaxing picnic in no time!<\/p>"
           }
         }
       },
