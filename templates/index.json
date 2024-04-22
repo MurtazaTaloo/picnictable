@@ -877,29 +877,37 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
+            "title": "How do I claim Free Shipping?",
+            "content": "<p>Free Shipping will be applied automatically at checkout.<\/p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
+            "title": "When will I receive my order?",
+            "content": "<p>Our standard delivery timeframe ranges from 5 to 15 days.<\/p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.<\/p>"
+            "title": "Do you ship internationally?",
+            "content": "<p>At the moment, we only ship within in Australia.<\/p>"
+          }
+        },
+        "item_RXkjLg": {
+          "type": "item",
+          "settings": {
+            "title": "Can I return my EZ Picnic Table?",
+            "content": "<p>Absolutely, we want you to be completely satisfied with your purchase. We offer hassle-free returns for your convenience.<\/p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_RXkjLg"
       ],
       "settings": {
         "full_width": false,
