@@ -625,8 +625,8 @@
             "show_rating": true,
             "rating": 4,
             "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>"
+            "title": "",
+            "content": "<p>height is low. feels solid. gonna use it for camping<\/p>"
           }
         },
         "template--21272916820286__b3b8f4a7-9c57-44d7-b148-712ec94871ae-testimonial-2": {
@@ -635,9 +635,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Mary U.",
+            "author": "Zoe",
             "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>"
+            "content": "<p>I love the size. The legs are also more stable than you think<\/p>"
           }
         },
         "template--21272916820286__b3b8f4a7-9c57-44d7-b148-712ec94871ae-testimonial-3": {
@@ -646,16 +646,52 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.<\/p>"
+            "author": "Liam",
+            "title": "",
+            "content": "<p>Lighter than you think. I like the colour. It's very easy to assemble.<\/p>"
+          }
+        },
+        "testimonial_zx3nyf": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Steve",
+            "title": "",
+            "content": "<p>Handy, light for camping or longer cycling trips with overnight stays under the open sky.<\/p>"
+          }
+        },
+        "testimonial_QMBDLB": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Max",
+            "title": "",
+            "content": "<p>Nice little foldable table, easy to use and light weight<\/p>"
+          }
+        },
+        "testimonial_7zdU94": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Isla",
+            "title": "",
+            "content": "<p>Perfect item. Seems sturdy enough. Looking forward to using it.<\/p>"
           }
         }
       },
       "block_order": [
         "template--21272916820286__b3b8f4a7-9c57-44d7-b148-712ec94871ae-testimonial-1",
         "template--21272916820286__b3b8f4a7-9c57-44d7-b148-712ec94871ae-testimonial-2",
-        "template--21272916820286__b3b8f4a7-9c57-44d7-b148-712ec94871ae-testimonial-3"
+        "template--21272916820286__b3b8f4a7-9c57-44d7-b148-712ec94871ae-testimonial-3",
+        "testimonial_zx3nyf",
+        "testimonial_QMBDLB",
+        "testimonial_7zdU94"
       ],
       "settings": {
         "full_width": true,
